@@ -1,13 +1,13 @@
 # Curtis Compliance Pro
 
 > Hosted compliance tier for fintech dev teams — **in development.**
-> The MIT core is live at [JordanNewell/curtis-compliance](https://github.com/JordanNewell/curtis-compliance).
+> The MIT core is live at [curtis-ai-tech/curtis-compliance](https://github.com/curtis-ai-tech/curtis-compliance).
 
 ---
 
 ## Why a Pro tier
 
-[Curtis Compliance](https://github.com/JordanNewell/curtis-compliance) is a
+[Curtis Compliance](https://github.com/curtis-ai-tech/curtis-compliance) is a
 static regulatory scanner that runs at commit time, locally, per repo. It
 ships the pre-commit gate, the hash-chained audit trail, and PAT-based PR
 review under MIT.
